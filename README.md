@@ -25,3 +25,10 @@ I'd like to see if a bike is working
 | Bike | check_working |
 | Good Bike | use_bike |
 | Docking Station | release_bike |
+
+**Updated Domain Model**
+| Objects | Messages |
+|---------|----------|
+| Person | |
+| Bike | working? |
+| Docking Station | release_bike |
